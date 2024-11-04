@@ -20,6 +20,7 @@
 
 # 三、系统界面截图
 
+![extending-a-theme](/000.png)
 ![extending-a-theme](/001.png)
 ![extending-a-theme](/002.png)
 ![extending-a-theme](/003.png)
